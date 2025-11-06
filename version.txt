@@ -1,0 +1,3 @@
+version=1.0.0
+download=https://github.com/YourUsername/MyTrainerUpdater/releases/latest/download/MyTrainer.exe
+changelog=Improved macro accuracy and UI fixes
