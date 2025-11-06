@@ -1,3 +1,3 @@
 version=1.0.0
-download=https://github.com/YourUsername/MyTrainerUpdater/releases/latest/download/MyTrainer.exe
+download=https://github.com/DrWangz/Releases/releases/download/sampol/3Client.exe
 changelog=Improved macro accuracy and UI fixes
