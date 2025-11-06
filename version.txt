@@ -1,3 +1,4 @@
-version=1.0.0
+version=1.0.1
 download=https://github.com/DrWangz/Releases/releases/download/sampol/3Client.exe
 changelog=Improved macro accuracy and UI fixes
+
